@@ -1,10 +1,10 @@
 ---
 title: "Silo Busting"
 date: 2016-12-20
-tags: [silo working, working out loud]
+tags: [silo working, Silo, Silos, working out loud]
 header:
   image: "../images/silobusting/header.jpg"
-excerpt: "Silo, Silos, Silo busting"
+excerpt: "Silo busting. A pipe dream or realistic aspiration?"
 mathjax: "true"
 ---
 
