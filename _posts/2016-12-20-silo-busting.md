@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
+title: "Silo Busting"
+date: 2016-12-20
 tags: [silo working, working out loud]
 header:
   image: "../images/silobusting/header.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Silo, Silos, Silo busting"
 mathjax: "true"
 ---
 
