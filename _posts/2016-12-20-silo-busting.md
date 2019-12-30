@@ -3,7 +3,7 @@ title: "Data Wrangling Project"
 date: 2018-01-28
 tags: [silo working, working out loud]
 header:
-  image: "/images/silobusting/header.jpg"
+  image: "../images/silobusting/header.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
@@ -38,7 +38,7 @@ At an individual level we can all make it easier for others to contribute, and s
 
 Maybe silo busting isn’t unachievable. But by taking the roof off and lowering the walls, the silos could look more like fields segmented with dry stone walls dotted with stiles to climb over and gateways to walk through. In this picture there are no silos.
 
-<a href="/images/silobusting/nosilos.jpg"><img src="/images/silobusting/nosilos.jpg"></a>
+<a href="../images/silobusting/nosilos.jpg"><img src="../images/silobusting/nosilos.jpg"></a>
 
 Photo by Paul O'Donoghue creative commons licence
 
