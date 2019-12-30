@@ -24,7 +24,7 @@ Worked on SharePoint O365 and Teams architecture, deployment and onboarding at t
 I started 4 weeks into a 12 week program of work, each project was completed on time and within budget.
 
 ## Key Projects
-*   Discovery Phase - [www.food.gov.uk] (https://www.food.gov.uk/)
+*   Discovery Phase - [food.gov.uk](https://www.food.gov.uk/) 
 *   Discovery Phase - FSA Intranet
 *   FHRS API development and deployment
 
