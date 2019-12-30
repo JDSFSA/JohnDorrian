@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: ""
+  image: "images/zakim.jpg"
 ---
 
 I've been with the FSA since July 2003 and have had a few job roles.  Each one I've used data to better understand trends, and work more efficiently by identifying bottlenecks and blockers which has led me to the Data team.  
