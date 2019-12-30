@@ -8,11 +8,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Comber GB"
+locale                   : "en-UK"
 title                    : "John Dorrian"
 title_separator          : "-"
 name                     : "John Dorrian"
-description              : "My Blog"
+description              : "My Musings"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -85,9 +85,9 @@ analytics:
 # Site Author
 author:
   name             : "John Dorrian"
-  avatar           : "www.linkedin.com/in/jdorrian" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My Portfolio"
-  location         : "Comber, GB"
+  avatar           : "images/bio-pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hello World"
+  location         : "en-UK"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          :@JohnDorrian17
   vine             :
   weibo            :
   xing             :
