@@ -8,7 +8,6 @@ excerpt: "What’s driving us to engage and embrace so many different channels a
 mathjax: "true"
 ---
 
-# The Social Fear Factor
 Published on June 29, 2016
 
 In this fast paced world when we are doing our best to engage with both our internal and external customers, are we losing track of where we are and where we want to be?  Are we trying too hard and making life difficult for ourselves?
