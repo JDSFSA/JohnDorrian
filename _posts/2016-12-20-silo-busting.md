@@ -16,6 +16,7 @@ So after thinking and writing about online project management and collaboration 
 
 Were we simply breaking into others silos and building new ones? As the hot-desking ninja can attest to we now spend our time hopping between silos as we move from desk to desk with little or no interaction with the colleagues around us who have no bearing in our little spheres of work. Are we becoming silo nomads? #silonomad
 
+<a href="../images/silobusting/image2.jpg"><img src="../images/silobusting/image2.jpg"></a>
 
 ## The End of the ‘Office’
 
@@ -33,6 +34,7 @@ The UK Government is also working hard to make better use of the data it holds t
 
 At an individual level we can all make it easier for others to contribute, and share the knowledge and data we are storing away. Mid-November saw [National Working out Loud Week](https://wolweek.com/) and is something Addeel Khan, Head of Internal Communications and Engagement, championed within the Food Standards Agency. It’s about being open about what we are doing, asking for ideas and inspiration, finding out if similar projects are being carried out and learning from what has been done in the past as we’re moving into the future.
 
+<a href="../images/silobusting/wol.jpg"><img src="../images/silobusting/wol.jpg"></a>
 
 ## Lowering the Walls
 
@@ -40,7 +42,7 @@ Maybe silo busting isn’t unachievable. But by taking the roof off and lowering
 
 <a href="../images/silobusting/nosilos.jpg"><img src="../images/silobusting/nosilos.jpg"></a>
 
-Photo by Paul O'Donoghue creative commons licence
+*Photo by Paul O'Donoghue creative commons licence*
 
 Some of the tools we use are great for collaborating within the team, but how do we draw in more interest and share our experiences with others? How do we learn from what others have done on similar projects?  
 
