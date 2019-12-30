@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "https://media.licdn.com/dms/image/C5603AQFjiiGEMIOmAQ/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=xbRIjDqTnN3F1qQv5RxGqJn2QBgP67ANQB7ToHOYms0"
+  image: ""
 ---
 
 I've been with the FSA since July 2003 and have had a few job roles.  Each one I've used data to better understand trends, and work more efficiently by identifying bottlenecks and blockers which has led me to the Data team.  
