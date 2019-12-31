@@ -1,7 +1,7 @@
 ---
 layout: posts
-permalink: /my-blogs/
-title: "My Blogs"
+permalink: /inspections/
+title: "Inspections"
 author_profile: true
 header:
   image: "/images/darkhedges.jfif"
