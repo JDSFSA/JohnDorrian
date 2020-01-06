@@ -6,8 +6,8 @@ main:
     url: /cv/
   - title: "Musings"
     url: /musing/
-  - title: "Catagory Archive"
-    url: /catagory-archive/
+  - title: "Category Archive"
+    url: /category-archive/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
