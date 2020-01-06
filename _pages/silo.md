@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Silo"
-permalink: /silo/
+permalink: /tag/silo/
 taxonomy: silo
 entries_layout: list # list (default), grid
 header:
