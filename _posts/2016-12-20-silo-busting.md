@@ -1,7 +1,14 @@
 ---
 title: "Silo Busting"
 date: 2016-12-20
-tags: [silo working, Silo, working out loud]
+tags:
+  - silo working
+  - Silo
+  - working out loud
+
+categories:
+  - silo
+
 header:
   image: "/images/silobusting/header.jpg"
 excerpt: "Silo busting. A pipe dream or realistic aspiration?"
