@@ -8,7 +8,7 @@ tags:
 
  categories:
     - Collaborative
-    - Social
+    - social
 
 header:
   image: "/images/socialfear/header.jpg"
