@@ -7,7 +7,7 @@ tags:
   - working out loud
 
 categories:
-  - silo
+  - Silo
 
 header:
   image: "/images/silobusting/header.jpg"
