@@ -1,7 +1,15 @@
 ---
 title: "Freed from our Shackles"
 date: 2016-11-21
-tags: [Collaborative working, Web 2.0, Web 3.0]
+
+tags:
+ - Collaborative working
+ - Web 2.0
+ - Web 3.0
+
+categories:
+   - Collaborative
+
 header:
   image: "/images/shackleless/header.jpg"
 excerpt: "Freed from our Shackles, but should we be?"
