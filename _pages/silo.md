@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomy
+layout: tag
 title: "Silo"
 permalink: /silo/
 taxonomy: silo
