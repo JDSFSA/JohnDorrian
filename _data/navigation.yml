@@ -6,7 +6,7 @@ main:
     url: /cv/
   - title: "Musings"
     url: /musing/
-  - title: "Test"
+  - title: "Catagory Filter"
     url: /social/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
