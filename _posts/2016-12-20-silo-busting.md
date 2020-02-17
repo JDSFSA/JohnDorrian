@@ -1,6 +1,7 @@
 ---
 title: "Silo Busting"
 date: 2016-12-20
+
 tags:
   - silo working
   - Silo
