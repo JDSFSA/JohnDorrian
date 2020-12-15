@@ -1,13 +1,4 @@
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J00LP1N1XF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-J00LP1N1XF');
-</script>
 title: "Freed from our Shackles"
 date: 2016-11-21
 tags:
@@ -17,6 +8,15 @@ tags:
 categories:
    - Collaborative
 header:
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J00LP1N1XF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J00LP1N1XF');
+</script>
   image: "/images/shackleless/header.jpg"
 excerpt: "Freed from our Shackles, but should we be?"
 mathjax: "true"

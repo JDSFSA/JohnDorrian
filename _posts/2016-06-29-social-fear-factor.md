@@ -1,13 +1,4 @@
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J00LP1N1XF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-J00LP1N1XF');
-</script>
 title: "The Social Fear Factor"
 date: 2016-06-29
 tags:
@@ -18,6 +9,23 @@ tags:
     - Collaborative
     - social
 header:
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J00LP1N1XF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J00LP1N1XF');
+</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J00LP1N1XF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J00LP1N1XF');
+</script>
   image: "/images/socialfear/header.jpg"
 excerpt: "What’s driving us to engage and embrace so many different channels and utilise so many social media channels?"
 mathjax: "true"
