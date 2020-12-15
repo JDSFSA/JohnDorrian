@@ -9,6 +9,7 @@ tags:
 
 categories:
   - Silo
+  - Collaborative
 
 header:
   image: "/images/silobusting/header.jpg"
