@@ -3,11 +3,9 @@ title: "The Social Fear Factor"
 date: 2016-06-29
 tags:
  - social media
- - fears
  - working out loud
  categories:
     - Collaborative
-    - social
 header:
   image: "/images/socialfear/header.jpg"
 excerpt: "What’s driving us to engage and embrace so many different channels and utilise so many social media channels?"
